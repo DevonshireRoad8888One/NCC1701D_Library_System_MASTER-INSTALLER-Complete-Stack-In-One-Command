@@ -1,5 +1,6 @@
 # NCC1701D_Library_System_MASTER-INSTALLER-Complete-Stack-In-One-Command
-Full Start Script
+
+Full Start Script: Keep running this over and over until you have all Green, on the Servers start.
 
  ~/openwebui-manager/start-all.sh && ~/library-manager/start-all.sh && ~/openwebui-manager/health-all.sh ~/openwebui-manager/health-all.sh && ~/openwebui-manager/health-all.sh &&  ~/library-manager/health-all.sh && ~/openwebui-manager/health-all.sh &&  ~/library-manager/health-all.sh && ~/library-manager/health-all.sh && ~/library-manager/health-all.sh
  

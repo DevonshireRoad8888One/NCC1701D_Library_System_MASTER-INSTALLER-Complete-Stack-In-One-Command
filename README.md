@@ -40,23 +40,7 @@ All services start automatically
 
 
 🧪 Test On Clean WSL2
-bash
 
-Collapse
-Save
-Copy
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
 # Fresh Ubuntu WSL2
 ~/install-complete-stack.sh
 
@@ -75,18 +59,7 @@ This is your production-ready, one-command installer for the complete stack. Tes
 This is your production-ready, one-command installer for the complete stack. Test it on clean WSL2 and you're ready to deploy anywhere! 🚀
 
 
-
-
-
-
-
-
-
 Ok what are the start commands?
-
-
-
-
 
 io2.qwen3.5:397b
 
@@ -97,35 +70,15 @@ Thought for less than a second
 Here are all the start commands for your complete system:
 
 📋 Quick Start (All Services)
-bash
 
-Collapse
-Save
-Copy
-1
-2
+
+
 # Start EVERYTHING (Open WebUI 6x + Ollama + Library)
 ~/openwebui-manager/start-all.sh && ~/library-manager/start-all.sh
 🔧 Individual Start Commands
 Open WebUI (6 Instances)
 bash
 
-Collapse
-Save
-Copy
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
 # Start ALL 6 Open WebUI instances + Ollama
 ~/openwebui-manager/start-all.sh
 
@@ -140,18 +93,7 @@ Copy
 # Start Ollama only
 ollama serve
 Personal Library v12.0
-bash
 
-Collapse
-Save
-Copy
-1
-2
-3
-4
-5
-6
-7
 # Start Library (port 8771)
 ~/library-manager/start-all.sh
 
@@ -162,19 +104,7 @@ python run.py
 🛑 Stop Commands
 bash
 
-Collapse
-Save
-Copy
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
+
 # Stop ALL Open WebUI instances + Ollama
 ~/openwebui-manager/stop-all.sh
 

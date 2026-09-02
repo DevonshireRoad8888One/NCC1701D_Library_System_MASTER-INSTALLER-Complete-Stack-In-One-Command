@@ -44,7 +44,7 @@ All services start automatically
 # Fresh Ubuntu WSL2
 ~/install-complete-stack.sh
 
-# Wait 2-3 minutes for installation
+# Wait 20 - 30 minutes for installation.
 
 # Check status
 ~/openwebui-manager/health-all.sh

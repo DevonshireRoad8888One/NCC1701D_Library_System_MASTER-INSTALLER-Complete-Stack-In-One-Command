@@ -1,5 +1,7 @@
 # NCC1701D_Library_System_MASTER-INSTALLER-Complete-Stack-In-One-Command
-Summarize or extract key points and do a fully detailed analysis and summery in very much detailed manner.
+
+System Prompt: Summarize or extract key points and do a fully detailed analysis and summery in very much detailed manner.
+
 Full Start Script: Keep running this over and over until you have all Green, on the Servers start. Usually Twice.
 
  ~/openwebui-manager/start-all.sh && ~/library-manager/start-all.sh && ~/openwebui-manager/health-all.sh ~/openwebui-manager/health-all.sh && ~/openwebui-manager/health-all.sh &&  ~/library-manager/health-all.sh && ~/openwebui-manager/health-all.sh &&  ~/library-manager/health-all.sh && ~/library-manager/health-all.sh && ~/library-manager/health-all.sh
